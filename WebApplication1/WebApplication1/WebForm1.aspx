@@ -83,12 +83,30 @@
             </tr>
             <tr>
                 <td class="auto-style5"></td>
-                <td class="auto-style6">Nota:</td>
+                <td class="auto-style6">Nota1:</td>
                 <td class="auto-style7">
                     <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
                 </td>
                 <td class="auto-style8"></td>
                 <td class="auto-style8"></td>
+            </tr>
+            <tr>
+                <td class="auto-style3">&nbsp;</td>
+                <td class="auto-style6">Nota2:</td>
+                <td class="auto-style7">
+                    <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox>
+                </td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style3">&nbsp;</td>
+                <td class="auto-style6">Nota3:</td>
+                <td class="auto-style7">
+                    <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox>
+                </td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
             </tr>
             <tr>
                 <td class="auto-style3">&nbsp;</td>
@@ -101,20 +119,6 @@
                 <td>
                     <asp:Button ID="Button2" runat="server" Text="Cancelar" />
                 </td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td class="auto-style3">&nbsp;</td>
-                <td class="auto-style2">&nbsp;</td>
-                <td class="auto-style4">&nbsp;</td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td class="auto-style3">&nbsp;</td>
-                <td class="auto-style2">&nbsp;</td>
-                <td class="auto-style4">&nbsp;</td>
-                <td>&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
         </table>
